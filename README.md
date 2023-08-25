@@ -1,7 +1,6 @@
 ## 🚀 Sobre mim
 Olá me chamo Bryan tenho 14 anos sou estudante de programação e pretendo ser full-stack.
 
-## Outras seções comuns em perfis do GitHub
 👩‍💻 Trabalhando no projeto da minha despedida.
 
 🧠 Estou aprendendo Javascritpt.
