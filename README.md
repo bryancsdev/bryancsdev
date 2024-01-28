@@ -1,19 +1,3 @@
-## 🚀 Sobre mim
-Olá me chamo Bryan tenho 14 anos sou estudante de programação e pretendo ser full-stack.
-
-👩‍💻 Trabalhando no projeto da minha despedida.
-
-🧠 Estou aprendendo Javascritpt.
-
-👯‍♀️ Procuro colaborar no que estiver em meu alcance.
-
-📫 Para entrar em contato comigo me chame no meu email: contato.bryancampagnoledev@gmail.com
-
-## 🖥 Aprendendo
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-
 ## 📊 Estatisticas
 
 <div>
